@@ -1,29 +1,31 @@
 {
-  "name": "alexanderdavide",
+  "name": "houssemba",
   "version": "1.0.0",
-  "description": "@alexanderdavide GitHub profile README",
+  "description": "@Houssem Ben Abdallah GitHub profile README",
   "scripts": {
     "marked": "marked -i README.md -o index.html",
     "start": "serve"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexanderdavide/alexanderdavide.git"
+    "url": "git+https://github.com/HosmosTN/houssemba.git"
   },
   "keywords": [
-    "alexanderdavide",
+    "houssemba",
+    "Houssem Ben Abdallah",
+    "hosmostn",
     "GitHub profile",
     "GitHub README"
   ],
-  "author": "alexanderdavide",
+  "author": "HosmosTN",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/alexanderdavide/alexanderdavide/issues"
+    "url": "https://github.com/HosmosTN/houssemba/issues"
   },
-  "homepage": "https://github.com/alexanderdavide/alexanderdavide#readme",
-  "prettier": "@alexanderdavide/prettier-config",
+  "homepage": "https://github.com/HosmosTN/houssemba#readme",
+  "prettier": "@HosmosTN/prettier-config",
   "devDependencies": {
-    "@alexanderdavide/prettier-config": "^1.0.1",
+    "@HosmosTN/prettier-config": "^1.0.1",
     "marked": "^4.0.12",
     "prettier": "^2.5.1",
     "serve": "^13.0.2"
