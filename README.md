@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.linkedin.com/in/houssembenabdallah" target="_blank" rel="noreferrer"><img align="center" alt="Houssem Ben Abdallah logo" src="https://raw.githubusercontent.com/HosmosTN/houssemba/refs/heads/main/HBA.png" width="200" /></a>
+<p align="center"><a href="https://www.linkedin.com/in/houssembenabdallah" target="_blank" rel="noreferrer"><img align="center" alt="Houssem Ben Abdallah logo" src="HBA.png" width="200" /></a>
 </p>
 
 <p align="center"><q>Crafting Tomorrow's Solutions.</q></p>
