@@ -1,5 +1,5 @@
 {
-  "name": "houssemba",
+  "name": "HosmosTN",
   "version": "1.0.0",
   "description": "@Houssem Ben Abdallah GitHub profile README",
   "scripts": {
@@ -8,11 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HosmosTN/houssemba.git"
+    "url": "git+https://github.com/HosmosTN/HosmosTN.git"
   },
   "keywords": [
-    "houssemba",
+    "HosmosTN",
     "Houssem Ben Abdallah",
+    "houssemba",
+    "HBA",
     "hosmostn",
     "GitHub profile",
     "GitHub README"
@@ -20,9 +22,9 @@
   "author": "HosmosTN",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/HosmosTN/houssemba/issues"
+    "url": "https://github.com/HosmosTN/HosmosTN/issues"
   },
-  "homepage": "https://github.com/HosmosTN/houssemba#readme",
+  "homepage": "https://github.com/HosmosTN/HosmosTN#readme",
   "prettier": "@HosmosTN/prettier-config",
   "devDependencies": {
     "@HosmosTN/prettier-config": "^1.0.1",
