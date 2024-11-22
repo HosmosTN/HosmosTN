@@ -25,11 +25,11 @@
     "url": "https://github.com/HosmosTN/HosmosTN/issues"
   },
   "homepage": "https://github.com/HosmosTN/HosmosTN#readme",
-  "prettier": "@HosmosTN/prettier-config",
+  "prettier": "@hosmostn/prettier-config",
   "devDependencies": {
-    "@HosmosTN/prettier-config": "^1.0.1",
+    "@hosmostn/prettier-config": "^1.0.1",
     "marked": "^4.0.12",
     "prettier": "^2.5.1",
-    "serve": "^13.0.2"
+    "serve": "^14.2.4"
   }
 }
