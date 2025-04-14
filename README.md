@@ -2,7 +2,13 @@
 </p>
 
 <p align="center"><q>Crafting Tomorrow's Solutions.</q></p>
+<p align="center">
 
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=hosmostn&show_icons=true&theme=react&count_private=true" width="300">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hosmostn&theme=nord&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/houssembenabdallah/">
     <img alt="Houssem Ben Abdallah LinkedIn profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=blue" />
@@ -31,12 +37,11 @@
   </p>
   <p>
    <img alt="Linux" src="https://img.shields.io/badge/linux-linux?style=for-the-badge&logo=linux&color=grey" />
-   <img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-postgresql.svg?&style=for-the-badge&logo=postgresql&color=699eca" />
+   <img alt="Unix" src="https://img.shields.io/badge/unix-unix?style=for-the-badge&logo=unix&color=grey" />
+   <img alt="Windows" src="https://img.shields.io/badge/windows-windows?style=for-the-badge&logo=windows&color=grey" />
   </p>
-</p>
-
-## Statistics
-
-<p>
-  <img alt="Houssem Ben Abdallah GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=hosmostn&theme=react&count_private=true&show_icons=true" />
+  <p>
+   <img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-postgresql.svg?&style=for-the-badge&logo=postgresql&color=699eca" />
+   <img alt="MariaDB" src="https://img.shields.io/badge/mariadb-mariadb.svg?&style=for-the-badge&logo=mariadb&color=699eca" />
+  </p>
 </p>
