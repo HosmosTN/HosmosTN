@@ -30,6 +30,6 @@
     "@hosmostn/prettier-config": "^1.0.1",
     "marked": "^4.0.12",
     "prettier": "^2.5.1",
-    "serve": "^14.2.4"
+    "serve": "^14.2.6"
   }
 }
